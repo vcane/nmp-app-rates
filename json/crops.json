@@ -1,0 +1,10 @@
+{
+  "crops" : [
+    {
+      "name" : "corn grain, dryland",
+      "avgyield" : "120",
+      "Nreq" : "1.6",
+      "Prem" : "0.33"
+    }
+  ]
+}
